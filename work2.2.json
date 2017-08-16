@@ -1,0 +1,58 @@
+{
+  "Суп":[
+    {
+      "ingridient_name": "Вода",
+      "quantity": "200",
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "Картошка",
+      "quantity": "50",
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "Мясо",
+      "quantity": "50",
+      "measure": "гр"
+    }
+  ],
+  "Пюре":[
+    {
+      "ingridient_name": "Картошка",
+      "quantity": "200",
+      "measure": "гр"
+    },
+    {
+      "ingridient_name": "Молоко",
+      "quantity": "100",
+      "measure": "мл"
+    },
+    {
+      "ingridient_name": "Лук",
+      "quantity": "20",
+      "measure": "гр"
+    }
+   ],
+   "Котлета":[
+     {
+       "ingridient_name": "Мясо",
+       "quantity": "300",
+       "measure": "гр"
+     },
+     {
+       "ingridient_name": "Лук",
+       "quantity": "20",
+       "measure": "гр"
+     },
+     {
+       "ingridient_name": "Хлеб",
+       "quantity": "5",
+       "measure": "гр"
+     }
+   ]
+}
+
+
+
+
+       
