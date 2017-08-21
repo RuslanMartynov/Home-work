@@ -1,0 +1,17 @@
+cook_book = {
+  'яйчница': [
+    {'ingridient_name': 'яйца', 'quantity': 2, 'measure': 'шт.'},
+    {'ingridient_name': 'помидоры', 'quantity': 100, 'measure': 'гр.'}
+    ],
+  'суп': [
+    {'ingridient_name': 'говядина', 'quantity': 300, 'measure': 'гр.'},
+    {'ingridient_name': 'специи', 'quantity': 5, 'measure': 'гр.'},
+    {'ingridient_name': 'картошка', 'quantity': 100, 'measure': 'гр.'}
+    ],
+  'картошка с мясом': [
+    {'ingridient_name': 'картошка', 'quantity': 100, 'measure': 'гр.'},
+    {'ingridient_name': 'мясо', 'quantity': 500, 'measure': 'гр.'},
+    {'ingridient_name': 'масло', 'quantity': 100, 'measure': 'мл.'},
+    {'ingridient_name': 'лук', 'quantity': 3, 'measure': 'шт.'}
+    ]
+  }
